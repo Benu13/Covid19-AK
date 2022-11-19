@@ -1,0 +1,17 @@
+NrKolejnejFunkcjonalno_ci	Wordpress	Identyfikator	NrKolejnejFunkcjonalno_ci_1	Drupal	Identyfikator_1	NrKolejnejFunkcjonalno_ci_2	Joomla	Identyfikator_2	Opis
+1	2003.05.15	1	1	2001.01.01	1	1	2005.09.16	1	1.Wydanie pierwszej stabilnej wersji systemu CMS
+2	2004.01.25	2	2	2001.03.01	3	2	2005.09.16	2	2.Nacisk na jakoœæ pozycjonowania, zamiana miejscami elementów strony instalator z poziomu przegl¹darki, rekurencyjne drzewo menu/podmenu
+3	2004.05.22	3	3	2001.03.01	4	3	2005.09.16	3	3.Architektura modu³owa sys¬temu, pluginy i wtyczki, roz¬budowa systemu zarz¹dzania plikami graficznymi
+4	2004.05.22	4	4	2002.06.01	6	4	2005.10.01	4	4. Rozbudowany system jêzy­kowy, t³umaczenia panelu ad­ministracyjnego, ekspansja systemu na Œwiat
+5	2005.02.17	5	5	2003.12.01	2	5	2005.11.01	6	5. Rozbudowany system zarz¹­dzania wygl¹dem strony, kom­ponenty oraz widgety, sza­blony i skórki
+6	2005.03.15	6	6	2004.04.01	5	6	2006.02.01	5	6. Zarz¹dzanie kontami u¿yt­kowników filtracja, systemy autoryzacji, anty-spam, profi­lowanie kont u¿ytkowników
+7	2005.12.31	7	7	2004.12.01	8	7	2006.02.01	7	7.Zaawansowane narzêdzia: WYSIWYG, RSS, metadane, Ajax, nacisk na pozycjonowa­nie
+8	2006.01.01	8	8	2005.04.01	7	8	2006.02.01	8	8. Integracja z zewnêtrznymi na­rzêdziami, systemami typu blogger, oraz zaawansowane zarzadzanie plikami
+9	2007.05.16	9	9	2005.11.01	10	9	2006.02.01	10	9.Nowoczesne jêzyki skryp­towe JQuery, automatyczny instalator pluginów
+10	2008.12.11	10	10	2007.01.15	9	10	2010.07.01	11	10.Nacisk na bezpieczeñstwo, uwierzytelnianie, zgodnoœæ z standardami, szyfrowanie da­nych, antyspamboot
+11	2009.12.19	11	11	2008.05.01	11	11	2010.08.01	9	11. Kopie robocze, notatki zaa­wansowane techniki buforo­wania oraz backupowania
+12	2010.05.01	12	12	2009.02.25	12	12	2010.09.01	12	12. Multisites oraz multiposting – zarz¹dzanie wieloma stronami z poziomu jednej instalacji
+13	2011.07.04	13	13	2011.01.05	13	13	2011.05.01	13	13. Rozwój panelu administratora, dashboard, zarz¹dzanie pulpi­tami
+14	2011.08.01	14	14	2011.05.01	15	14	2011.08.01	15	14.Prze³om w strukturze kodu Ÿród³owego, zgodnoœæ ze stan­dardami PHP 5 oraz MYSQL 5
+15	2012.11.01	15	15	2012.04.01	14	15	2012.09.01	14	15.Nowy menad¿er mediów i rozwój mediów
+16	2012.12.30	16	16	2013.01.02	16	16	2013.02.02	16	16.Wydanie ostatniej stabilnej wersji systemu CMS
